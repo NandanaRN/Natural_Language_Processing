@@ -2,6 +2,8 @@
 
 > **An NLP-based learning assistant for semantic answer evaluation, weak-topic detection, and personalized revision recommendations.**
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-6C5CE7?style=for-the-badge&logo=streamlit&logoColor=white)](https://naturallanguageprocessing-jjhfcvdl5acyfw8vju4e7i.streamlit.app)
+
 StudyMate is an **NLP mini-project** designed to help students identify their learning gaps and receive focused revision guidance.
 
 Instead of functioning only as a question-answering chatbot, StudyMate focuses on **learner profiling at the topic level**. It processes study material, evaluates student answers using semantic similarity, detects weak areas, and recommends topics for revision.
